@@ -1,0 +1,17 @@
+Monster
+Sephiroth
+ 5.0
+ 5.0
+ 5.0
+ 5.0
+ 5.0
+ 5.0
+ 5.0
+ 5.0
+ 16777216.0000
+WEAPON
+WEAPON
+WEAPON
+WEAPON
+5.00000
+Sephiroth

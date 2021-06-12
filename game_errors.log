@@ -1,0 +1,9 @@
+ERROR in
+action number 7
+of Create Event
+for object ob_init:
+
+In script sc_init:In script NewGraphic:Error in code at line 2:   
+for(i = 0; global.graphic[i,0] == "Empty"; i += 1)                                     ^at position 36: Cannot compare arguments.
+
+
